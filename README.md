@@ -4,6 +4,9 @@ This is an HTTP wrapper for [rhasspy piper](https://github.com/rhasspy/piper)
 
 It is intended to be used with [GDis-server](https://github.com/SquirrelsMcGee/GDis-server) but can be used on it's own
 
+This was designed to be a drop-in replacement for now-defunt https://github.com/coqui-ai/TTS, the API endpoint used for generating speech was originally the same.
+I made this solely because it was lighter to run than a whole docker environment on windows. But ideally this does run in docker for better containerisation
+
 # Setup
 These steps assume you have some python knowledge. Please search online for help if you get stuck, raise an issue if you really need it.
 
