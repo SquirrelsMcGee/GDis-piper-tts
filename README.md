@@ -1,6 +1,6 @@
 # GDis-transcribe
 
-This is an HTTP wrapper for [https://github.com/rhasspy/piper/](rhasspy piper)
+This is an HTTP wrapper for [https://github.com/rhasspy/piper](rhasspy piper)
 
 It is intended to be used with [GDis-server](https://github.com/SquirrelsMcGee/GDis-server) but can be used on it's own
 
